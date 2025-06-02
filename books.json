@@ -1,0 +1,9 @@
+[
+    {
+        "book_id": "ROM001",
+        "title": "Romeo Juliet",
+        "author": "William Shakespeare",
+        "quantity": 5,
+        "available": 5
+    }
+]
